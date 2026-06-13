@@ -1,0 +1,11 @@
+{
+  "name": "MindScope AI",
+  "description": "AI-powered emotional and mental state assessment using multiple NLP models and temporal analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered emotion detection",
+    "Mental health risk assessment",
+    "Temporal trend analysis",
+    "Interactive data visualization"
+  ]
+}
