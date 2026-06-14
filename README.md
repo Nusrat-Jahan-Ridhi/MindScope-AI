@@ -139,3 +139,16 @@ bash:
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+---
+
+## Authors
+
+- Shanjida Afrin (2252421087)
+- Ishfar Bintey Hauqe (2252421107)
+- Md. Sajjad Saif Shihab (2252421119)
+- Nusrat Jahan (2252421121)
+
+Instructed by:
+- Lecturer Sayma Alam Suha
+- Lecturer Md. Mahabubur Rahman
